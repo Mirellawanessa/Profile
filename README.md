@@ -42,8 +42,8 @@
 - ![DIO](https://img.shields.io/badge/DIO.me-5383e8?style=for-the-badge&logo=dio&logoColor=white) 
 
 ### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirella-wanessa)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mirella_page)
+[![LinkedIn](https://www.linkedin.com/in/mirellawanessa/)
+[![Instagram](https://www.instagram.com/_mirella.page/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirellawanessamorais@gmail.com)
 
 ### 📈 Estatísticas do GitHub:
