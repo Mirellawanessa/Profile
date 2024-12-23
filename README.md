@@ -1,61 +1,39 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/0c395396-a02d-4070-99fc-1d83ebbdb5a3" alt="Business Angels" width="80" height="80">
-    </td>
-    <td>
-      <h1>👋 Hola, soy Mirella Wanessa</h1>
-    </td>
-  </tr>
-</table>
+# 🌟 Mirella Wanessa - Web Developer  
 
-### 👩‍🎓 Sobre mim:
-- 🌸 Tenho 20 anos e sou estudante de Java básico na **Santander Academia**.
-- 💻 Estudo programação na **[DIO.me](https://www.dio.me)**.
-- 🔐 Fiz um curso de cibersegurança no **SENAI-SP**.
-- ☁️ Meu foco está em soluções de arquitetura de nuvem.
-- 🌍 Sou fluente em coreano, inglês, japonês e espanhol.
+🌐 **Front-end Developer** | 🎨 Passionate about web design and interactivity | 🚀 Always learning something new!  
 
-### 🎯 Objetivo e Motivação:
-- Estou empenhada em me tornar uma desenvolvedora de soluções de arquitetura de nuvem, contribuindo para projetos inovadores e impactantes.
-- Sou apaixonada por aprender novas tecnologias e resolver problemas complexos através da programação.
+## 🌟 About Me  
+- 🧠 **MBTI**: ENTJ-A  
+- 🎓 **Education**:  
+  - Programming at [![DIO.me](https://img.shields.io/badge/DIO.me-FF6F00?style=flat-square&logo=buffer&logoColor=white)](https://www.dio.me/)  
+  - Cybersecurity at [![SENAI-SP](https://img.shields.io/badge/SENAI-SP-E2231A?style=flat-square&logo=microsoft&logoColor=white)](https://www.sp.senai.br/)  
+- 🌍 **Languages**:  
+  Fluent in **Korean**, **English**, **Japanese**, and **Spanish**.  
+- 💻 **Technical Skills**:  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)  
 
-### 🛠️ Tecnologias e Ferramentas:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+## 📈 GitHub Stats  
+![Mirella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mirellawanessa&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirellawanessa&layout=compact&theme=radical)  
 
-### 🌱 Estou aprendendo:
-- Arquitetura de nuvem
-- Segurança cibernética
-- Desenvolvimento em Java
+## 🚀 Open Source Contributions  
+🔗 Active contributor to the **[DIO Lab Open Source](https://github.com/Mirellawanessa/open-source-lab)** project.  
 
-### 📜 Certificações e Cursos:
-- ![SENAI](https://img.shields.io/badge/SENAI-ED1C24?style=for-the-badge&logo=senai&logoColor=white) 
-- ![DIO](https://img.shields.io/badge/DIO.me-5383e8?style=for-the-badge&logo=dio&logoColor=white) 
+## 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirellawanessa/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mirella.page/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirellawanessamorais@gmail.com)  
 
-### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirellawanessa/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mirella.page/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirellawanessamorais@gmail.com)
-
-### 📈 Estatísticas do GitHub:
-![Mirella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mirellawanessa&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirellawanessa&layout=compact&theme=tokyonight)
-
-### 📂 Projetos em Destaque:
-- [![iPhoneModel](https://img.shields.io/badge/Project-iPhoneModel-181717?style=flat&logo=apple)](https://github.com/Mirellawanessa/iPhoneModel) - Projeto que modela diferentes versões do iPhone.
-- [![DIO Trilha Java Básico](https://img.shields.io/badge/Project-DIO_Trilha_Java_Básico-007ACC?style=flat&logo=java)](https://github.com/Mirellawanessa/dio-trilha-java-basico) - Exercícios e exemplos do curso de Java básico na DIO.
-- [![DIO Lab Open Source](https://img.shields.io/badge/Project-DIO_Lab_Open_Source-2C2255?style=flat&logo=open-source-initiative)](https://github.com/Mirellawanessa/dio-lab-open-source) - Contribuições para projetos open source da DIO.
-- [![Mirel](https://img.shields.io/badge/Project-Mirel-000000?style=flat&logo=google-cloud)](https://github.com/Mirellawanessa/mirel) - Projeto pessoal com foco em arquitetura de nuvem.
-- [![Imprimir.java](https://img.shields.io/badge/Project-Imprimir.java-ED8B00?style=flat&logo=java)](https://github.com/Mirellawanessa/imprimir.java) - Código em Java para imprimir documentos.
-
-### 🌟 Contribuições para a Comunidade:
-- Contribuidora ativa no projeto open source [DIO Lab Open Source](https://github.com/Mirellawanessa/dio-lab-open-source).
+## 🚀 Featured Projects  
+Here are some of my favorite projects:  
+1. **[DIO Projects](https://github.com/Mirellawanessa/dio-projects)**: A collection of projects developed during DIO.me's bootcamps. ![DIO](https://img.shields.io/badge/DIO-FF6F00?style=flat-square&logo=buffer&logoColor=white)  
+2. **[Open Source Lab](https://github.com/Mirellawanessa/open-source-lab)**: Contributions to open-source projects. ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+3. **[Hero Classifier](https://github.com/Mirellawanessa/hero-classifier)**: A fun project using logic to classify heroes. ![Superhero](https://img.shields.io/badge/Superhero-4C5B64?style=flat-square&logo=superhero&logoColor=white)  
+4. **[Ranked Calculator](https://github.com/Mirellawanessa/ranked-calculator)**: A ranked calculator built to improve functionality and aesthetics. ![Calculator](https://img.shields.io/badge/Calculator-4C4C4C?style=flat-square&logo=calculator&logoColor=white)  
+5. **[Adventure Game](https://github.com/Mirellawanessa/adventure-game)**: A simple adventure game built with JavaScript. ![Game](https://img.shields.io/badge/Game-FF8800?style=flat-square&logo=playstation&logoColor=white)  
