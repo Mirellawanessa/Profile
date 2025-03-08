@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Mirella Wanessa</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Roboto', sans-serif;
+            background-color: #1c1c1c;
+            color: #fffefe;
+        }
+        header {
+            text-align: center;
+            padding: 2rem;
+            background: linear-gradient(to bottom, #060404, #333333);
+            position: relative;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            color: #d2b48c;
+        }
+        header p {
+            font-size: 1.2rem;
+        }
+
+        .dio-logo {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 60px;
+            height: auto;
+        }
+
+        .profile-image {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            overflow: hidden;
+            border: 2px solid #d2b48c;
+        }
+        .profile-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        main {
+            margin: 2rem auto;
+            max-width: 800px;
+            padding: 1rem;
+            background-color: #ffffff;
+            color: #0c0c0c;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+        }
+        .section {
+            margin-bottom: 2rem;
+        }
+        .section h2 {
+            font-size: 1.8rem;
+            color: #d2b48c;
+            border-bottom: 2px solid #d2b48c;
+            padding-bottom: 0.5rem;
+            margin-bottom: 1rem;
+        }
+        .skills-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+        .skills-list span {
+            background-color: #444;
+            color: #d2b48c;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            font-size: 0.9rem;
+        }
+        .projects {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            justify-content: center;
+        }
+        .project {
+            background-color: #444;
+            padding: 1rem;
+            border-radius: 8px;
+            text-align: center;
+            width: 200px;
+        }
+        .project img {
+            width: 100px;
+            height: 100px;
+            object-fit: contain;
+        }
+        .project a {
+            display: block;
+            margin-top: 0.5rem;
+            color: #d2b48c;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            font-size: 0.8rem;
+            color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img class="dio-logo" src="./assets/img/logo-full.webp" alt="DIO.me Logo">
+        <h1>Mirella Wanessa</h1>
+        <p>Junior Developer | Systems Development | Web Solutions</p>
+    </header>
+    <main>
+        <div class="section">
+            <h2>About Me</h2>
+            <p>I am a developer passionate about technology and innovation, always striving to create efficient and scalable solutions. With experience in front-end and back-end development, I have worked with technologies such as React, Vue.js, Node.js, Kotlin, Java, Spring Boot, SQL, and NoSQL, building high-performance and secure applications.</p>
+            <p>In my projects, I focus on creating intuitive interfaces, performance optimization, and data security, ensuring a seamless user experience. I have contributed to building robust platforms, dealing with challenges such as real-time processing, scalability, and infrastructure management for handling large access volumes.</p>
+            <p>I am driven by continuous learning and always adapt to new technologies to deliver solutions that truly make a difference. I am open to opportunities where I can apply my knowledge, collaborate with innovative teams, and continue growing as a developer.</p>
+            <p>🚀 Let's build something amazing together?</p>
+        </div>
+        <div class="section">
+            <h2>Projects</h2>
+            <div class="projects">
+                <div class="project">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="ChatGPT Clone">
+                    <a href="https://github.com/Mirellawanessa/ChatGPT-Clone.git" target="_blank">ChatGPT Clone</a>
+                </div>
+                <div class="project">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Article Generator">
+                    <a href="https://github.com/Mirellawanessa/Article-generate-by-ia.git" target="_blank">Article Generator</a>
+                </div>
+                <div class="project">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Load Microservice">
+                    <a href="https://github.com/Mirellawanessa/Load-microservice.git" target="_blank">Load Microservice</a>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <h2>Skills</h2>
+            <div class="skills-list">
+                <span>Kotlin</span>
+                <span>Java</span>
+                <span>JavaScript</span>
+                <span>AWS</span>
+                <span>CSS</span>
+                <span>HTML</span>
+                <span>MySQL</span>
+                <span>NoSQL</span>
+                <span>React</span>
+                <span>Node.js</span>
+                <span>AI</span>
+                <span>TypeScript</span>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 Mirella Wanessa. All rights reserved.</p>
+    </footer>
+</body>
+</html>
